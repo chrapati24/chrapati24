@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @chrapati24
-- 👀 I making YouTube video
-- 🌱 I’m currently learning ANSI C
-- 💞️ I’m looking to collaborate on <a href="https://github.com/SPinti-Software/CpcdosOS2.1">Cpcdos project</a>
-- 📫 French guy :D
+<h1>Chrapati</h1>
 
-<!---
-chrapati24/chrapati24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sometimes, I try to make good ideas but it's very difficult. So I learn programming languages.
+
+<ul>
+  <li>19 y/o</li>
+  <li><a href="https://github.com/meaxy76/CpcdosOS2.2">Cpcdos developer - Cpcdos C++ API creator</a></li>
+  <li>Hexac System's creator (comming soon)</li>
+  <li>First-year developer student</li>
+</ul>
